@@ -62,7 +62,7 @@ redirect_from:
 
 # 📝 成果转换
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2025（在投）</div><img src='images/ISSCC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2025（在投）</div><img src='images/图三.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -80,7 +80,7 @@ This brief presents an ultra-fast voltage level shifter (VLS) with a wide voltag
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2025（在投）</div><img src='images/TCAS-II.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2025（在测）</div><img src='images/TCAS-II.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis](https://ieeexplore.ieee.org/document/10430381)
