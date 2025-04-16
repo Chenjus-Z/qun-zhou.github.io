@@ -4,12 +4,12 @@ main:
   - title: "Educations"
     url: "/#-教育背景"
 
-  - title: "设计经历"
+  - title: "Experiences"
     url: "/#-模拟IC设计经历"
     
-  - title: "主要成果"
+  - title: "Achievements"
     url: "/#-成果转换"
 
-  - title: "个人自评"
+  - title: "About me"
     url: "/#-个人自评"
     
