@@ -21,14 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Changchun Zhou (周长春)"
+  name             : "Qun Zhou (周群)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Duke University"
-  location         : "Durham, NC, US"
+  bio              : "Shandong Normal University"
+  location         : "Jinan, Shandong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=tiWMI1QAAAAJ"
-  email            : "changchun.zhou@duke.edu"
+  email            : "2422755203@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +36,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "changchun-zhou"
+  github           : "qun-zhou-chenjus"
   google_plus      :
   keybase          :
   instagram        :
