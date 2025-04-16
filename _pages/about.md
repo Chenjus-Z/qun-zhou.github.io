@@ -62,7 +62,7 @@ redirect_from:
 
 # 📝 成果转换
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2025（在投）</div><img src='images/图三.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2025（在投）</div><img src='图三.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
