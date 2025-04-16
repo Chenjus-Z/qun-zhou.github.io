@@ -2,19 +2,14 @@
 main:
 main:
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-教育背景"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "设计经历"
+    url: "/#-模拟IC设计经历"
     
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "主要成果"
+    url: "/#-成果转换"
 
-  - title: "Tape Out"
-    url: "/#-tape-out"
+  - title: "个人自评"
+    url: "/#-个人自评"
     
-  - title: "Skills"
-    url: "/#-skills"
-
-  - title: "About Me"
-    url: "/#-about-me"
