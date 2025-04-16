@@ -61,7 +61,7 @@ redirect_from:
 
 # 📝 成果转换
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2025（在投）</div><img src='图三.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2025（在投）</div><img src='images\图三.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -81,7 +81,7 @@ This brief presents an ultra-fast voltage level shifter (VLS) with a wide voltag
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2025（在测）</div><img src='核心电路图.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2025（在测）</div><img src='images\核心电路图.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -101,7 +101,7 @@ It's waited to be finished
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">长文，待定</div><img src='微信图片_20250416114755.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">长文，待定</div><img src='images\微信图片_20250416114755.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 55nm的三支路逻辑控制的电平位移
