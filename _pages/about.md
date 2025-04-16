@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 我是山东师范大学的一名模拟IC设计方向的研二学生，指导老师是华庆([Qing Hua](http://www.physics.sdnu.edu.cn/info/1142/5730.htm))。研一时跟随导师的指导，做高压驱动芯片设计(1um)，熟悉设计软件和设计流程。同时自学拉扎维和桑森的书籍，沉淀模拟电路设计的基本功底。研二，开始由高压驱动芯片电路里的模块引申，例如电平位移和电压基准源电路，进行小模块电路创新设计。通过对相关方向论文的研究和总结，不断尝试，自主设计了带浮动衬底的电平位移电路(130nm)和带差分式输出的电压基准源电路(180nm)，另外还设计了三支路逻辑控制的电平位移电路(55nm)，有望发表**三篇质量中上的论文**。有读博继续深造的打算，要做就做最好。目前对IC电源方向（亚阈值低功耗）这一块积累较为深刻，对其它模拟IC方向抱有期待。
 
-个人自评：有目标有规划，自驱力强，抗压能力强，能有效解决研究过程中碰到的问题。英语口语能力不错，能和外国人无障碍交流。学习能力强，硕士阶段很多研究方向都是由自己挖掘。希望能在未来博导的指引和教导下，在博士期间，至少发表一篇顶刊。如果有博导感兴趣，可以收藏我的简历[CV](https://github.com/zhouchch3/changchunzhou/blob/main/docs/CV.pdf)
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -121,14 +120,8 @@ It's waited to be finished
 
 
 
-# 💻 Skills
-- Flow: IC Front-End, Logic Synthesis, FPGA, Neural Network Training
-- Tools: Cadence, Vivado, PyTorch, TensorFlow 
-- Language: Verilog, SystemVerilog, Python, C, Shell, Makefile
-
-# 💬 About Me
-- I am an Easy Going and Self-Motivated Person. Feel Free to Reach out Anytime!
-- Interests and Hobbies: Fitness, Taekwondo(Black Belt), and Table Tennis.
+# 💬 个人自评
+有目标有规划，自驱力强，抗压能力强，能有效解决研究过程中碰到的问题。英语口语能力不错，能和外国人无障碍交流。学习能力强，硕士阶段很多研究方向都是由自己挖掘。希望能在未来博导的指引和教导下，在博士期间，至少发表一篇顶刊。如果有博导感兴趣，可以收藏我的简历[CV](https://github.com/Chenjus-Z/qun-zhou.github.io/tree/main/docs/周群简历.pdf)
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
