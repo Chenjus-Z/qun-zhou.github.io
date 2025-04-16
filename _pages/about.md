@@ -64,6 +64,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2025（在投）</div><img src='images\图三.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+Title: A Floating Bias Technique Enabled Voltage Level Shifter Operating in Subthreshold Voltage 
+Input with Ultra-Low Symmetric Delay
+
 
 **<u>Qun Zhou</u>**, Kang Zeng, Weiwei Yue and Qing Hua, Member, IEEE
 
@@ -83,6 +86,9 @@ This brief presents an ultra-fast voltage level shifter (VLS) with a wide voltag
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I 2025（在测）</div><img src='images\核心电路图.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+Title: A two-stage self-bias SDMTs CMOS voltage reference achieving active optimization with PVT 
+variation by tandem differential structure
 
 
 **<u>Qun Zhou</u>**, Yaoze Liu, Kang Zeng, Changchun Zhou and Qing Hua,Member, IEEE
