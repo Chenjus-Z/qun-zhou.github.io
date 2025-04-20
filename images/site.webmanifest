@@ -8,7 +8,7 @@
           "type": "image/png"
        },
        {
-        "src": "/htmlhead192×192",
+        "src": "/htmlhead512×512.png",
         "sizes": "512x512",
         "type": "image/png"
         }
