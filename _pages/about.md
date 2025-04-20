@@ -107,7 +107,7 @@ It's waited to be finished
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">长文，待定</div><img src='images\微信图片_20250416114755.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">长文，待定</div><img src='images\schematic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 55nm的三支路逻辑控制的电平位移
