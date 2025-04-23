@@ -9,7 +9,10 @@ main:
     
   - title: "Achievements"
     url: "/#-成果转换"
-
-  - title: "About me"
+ 
+  - title: "Tap Out"
+    url: "/#-流片经历"
+ 
+  - title: "About Me"
     url: "/#-个人自评"
     
