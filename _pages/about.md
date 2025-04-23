@@ -125,14 +125,15 @@ It's waited to be finished
 
 # 🍀 Tape Out
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GenAI</div><img src='images/DiffusionChip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GenAI</div><img src='images/微信图片_20250409164651.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A energy-efficient diffusion chip for real-time and high-resolution images/videos generation at the edge.
+<<A two-stage self-bias SDMTs CMOS voltage reference achieving active optimization with PVT 
+variation by tandem differential structure>>
 
-12/2025 (Expected), Project Leader
+12/2024, Project Leader
 
-*Fabricated in TSMC 16-nm FinFET technology with an expected area of 2 mm×4 mm*
+*Fabricated in SMIC 180-nm technology with an area of 185 um×26 um*
 
 </div>
 </div>
@@ -141,11 +142,11 @@ A energy-efficient diffusion chip for real-time and high-resolution images/video
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HLS Chip</div><img src='images/HLSChip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A high-level synthesis based chip for CNN/Transformer architectures in general CV/NLP applications.
+三支路逻辑控制的电平位移电路
 
 06/2025 (Expected), Collaboration
 
-*Fabricated in TSMC 16-nm FinFET technology with an expected area of 1 mm×1 mm*
+*Fabricated in SMIC 55-nm technology with an expected area of 6 um×8 um*
 
 </div>
 </div>
