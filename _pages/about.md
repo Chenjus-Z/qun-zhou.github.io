@@ -123,7 +123,32 @@ It's waited to be finished
 </div>
 </div>
 
+# 🍀 Tape Out
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GenAI</div><img src='images/DiffusionChip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A energy-efficient diffusion chip for real-time and high-resolution images/videos generation at the edge.
+
+12/2025 (Expected), Project Leader
+
+*Fabricated in TSMC 16-nm FinFET technology with an expected area of 2 mm×4 mm*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HLS Chip</div><img src='images/HLSChip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A high-level synthesis based chip for CNN/Transformer architectures in general CV/NLP applications.
+
+06/2025 (Expected), Collaboration
+
+*Fabricated in TSMC 16-nm FinFET technology with an expected area of 1 mm×1 mm*
+
+</div>
+</div>
 
 
 # 💬 个人自评
