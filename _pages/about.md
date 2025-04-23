@@ -144,7 +144,7 @@ variation by tandem differential structure>>
 
 三支路逻辑控制的电平位移电路
 
-06/2025 (Expected), Collaboration （designed and testing）
+06/2025 (Expected), Collaboration（designed and testing）
 
 *Fabricated in SMIC 55-nm technology with an expected area of 6 um×8 um*
 
