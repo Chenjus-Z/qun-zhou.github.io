@@ -123,9 +123,9 @@ It's waited to be finished
 </div>
 </div>
 
-# 🍀 Tape Out
+# 🍀 流片经历
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GenAI</div><img src='images/微信图片_20250409164651.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMOS Reference Chip</div><img src='images/微信图片_20250409164651.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <<A two-stage self-bias SDMTs CMOS voltage reference achieving active optimization with PVT 
@@ -139,7 +139,7 @@ variation by tandem differential structure>>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HLS Chip</div><img src='images/微信图片_20250416114755.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Voltage Level Shifter</div><img src='images/微信图片_20250416114755.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 三支路逻辑控制的电平位移电路
