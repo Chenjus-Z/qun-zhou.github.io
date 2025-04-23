@@ -131,7 +131,7 @@ It's waited to be finished
 <<A two-stage self-bias SDMTs CMOS voltage reference achieving active optimization with PVT 
 variation by tandem differential structure>>
 
-12/2024, Project Leader
+12/2024, Project Leader (designed and testing)
 
 *Fabricated in SMIC 180-nm technology with an area of 185 um×26 um*
 
@@ -144,7 +144,7 @@ variation by tandem differential structure>>
 
 三支路逻辑控制的电平位移电路
 
-06/2025 (Expected), Collaboration
+06/2025 (Expected), Collaboration （designed and testing）
 
 *Fabricated in SMIC 55-nm technology with an expected area of 6 um×8 um*
 
