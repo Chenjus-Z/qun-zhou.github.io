@@ -139,7 +139,7 @@ variation by tandem differential structure>>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HLS Chip</div><img src='images/HLSChip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HLS Chip</div><img src='images/微信图片_20250416114755.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 三支路逻辑控制的电平位移电路
